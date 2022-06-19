@@ -19,7 +19,7 @@ These are the data structures which store the data elements in a sequential mann
 
 **Matrix** − a two dimensional data structure in which the data element is referred by a pair of indices.
 
-### Non-Linear Data Structures
+#### Non-Linear Data Structures
 
 Non-Linear data structures have no sequential linking of data elements. Any pair or group of data elements can be linked to each other and can be accessed without a strict sequence.
 
