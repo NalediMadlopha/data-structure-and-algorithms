@@ -1,11 +1,11 @@
-### Data Structures and Algorithms Overview
+## Data Structures and Algorithms Overview
 Data structures and algorithms are fundamental concepts of Computer Science which help in writing efficient programs in any programming language. In this repository, I will use the Python programming language to study and implement data structures and algorithms. Python is a high-level, interpreted, interactive and object-oriented scripting language. Compared to other languages, I find Python easy to learn and more simpler to study and implement data structure and algorithms.
 
-### Data Structures
+## Data Structures
 
 Data structures in Computer Science are divided broadly into two categories shown below. 
 
-#### Linear Data Structures
+### Linear Data Structures
 
 These are the data structures which store the data elements in a sequential manner.
 
@@ -19,7 +19,7 @@ These are the data structures which store the data elements in a sequential mann
 
 **Matrix** − a two dimensional data structure in which the data element is referred by a pair of indices.
 
-#### Non-Linear Data Structures
+### Non-Linear Data Structures
 
 Non-Linear data structures have no sequential linking of data elements. Any pair or group of data elements can be linked to each other and can be accessed without a strict sequence.
 
@@ -31,4 +31,19 @@ Non-Linear data structures have no sequential linking of data elements. Any pair
 
 **Graph** − an arrangement of vertices and edges where some of the nodes are connected to each other through links.
 
+## Algorithms
+
+An algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.
+
+From the data structure point of view, following are some important categories of algorithms −
+
+**Search** − algorithm to search an item in a data structure.
+
+**Sort** − algorithm to sort items in a certain order.
+
+**Insert** − algorithm to insert item in a data structure.
+
+**Update** − algorithm to update an existing item in a data structure.
+
+**Delete** − algorithm to delete an existing item from a data structure.
 
